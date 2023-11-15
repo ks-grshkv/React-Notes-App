@@ -2,7 +2,7 @@
 import { useContext, useState } from "react";
 import "./Card.css";
 import Modal from "react-bootstrap/Modal";
-import { notesContext } from "./fields";
+import { notesContext } from "./Fields";
 import Inputs from "./Inputs";
 
 export default function Card(props) {

@@ -1,6 +1,6 @@
 /* eslint-disable react/jsx-key */
 /* eslint-disable react/prop-types */
-import { notesContext } from "./fields";
+import { notesContext } from "./Fields";
 import { useContext } from "react";
 import Card from "./Card";
 

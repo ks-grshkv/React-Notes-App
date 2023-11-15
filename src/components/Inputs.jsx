@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import { useState, useContext, useEffect } from "react";
-import { notesContext } from "./fields";
+import { notesContext } from "./Fields";
 
 export default function Inputs(props) {
   const { noteList, setNoteList } = useContext(notesContext)
