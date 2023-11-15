@@ -1,7 +1,7 @@
 
 import "./App.css";
 import {Link, Route, Routes} from 'react-router-dom'
-import Fields from "./components/fields";
+import Fields from "./components/Fields";
 import About from "./components/About";
 
 function App() {
