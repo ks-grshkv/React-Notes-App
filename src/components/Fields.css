@@ -1,0 +1,31 @@
+input {
+    color: blueviolet;
+}
+
+.div-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input-body {
+    line-height: 10rem;
+    margin: 0.5rem;
+    margin-bottom: 1.5rem;
+    min-width: 10rem;
+    max-width: 20rem;
+    width: 40%;
+    border-radius: 0.2rem;
+    border: 0;
+    background-color: rgb(241, 226, 226);
+}
+
+.input-title {
+    margin-bottom: 0.3rem;
+    line-height: 2rem;
+
+}
+
+p {
+    margin: 0;
+}
